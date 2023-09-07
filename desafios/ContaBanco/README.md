@@ -1,6 +1,12 @@
-## Getting Started
+## Desafio ContaBanco
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Criar um projeto que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
+
+Atributo	Tipo	Exemplo
+Agencia	Texto	067-8
+Numero	Inteiro	1021
+Nome Cliente	Texto	MARIO ANDRADE
+Saldo	Decimal	237.48
 
 ## Folder Structure
 
