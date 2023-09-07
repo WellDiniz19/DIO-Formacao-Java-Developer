@@ -9,6 +9,7 @@ public class SmartTv {
 
   public void desligarTv() {
     ligada = false;
+    System.out.println("Entrando em modo Stand-by " + ligada);
   }
 
   public void aumentarVolume() {
